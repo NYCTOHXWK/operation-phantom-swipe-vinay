@@ -1,5 +1,12 @@
-Installed applications (fictional)
-- DemoPay
-- File Manager
-- Notes
-- Archive Utility
+Installed applications observed during the EXH-12 mobile test extraction:
+- Google Chrome
+- WhatsApp
+- Telegram
+- Google Drive
+- Files
+- Messages
+- Phone
+
+Handset: Samsung Galaxy S24
+Location context: Connaught Place, New Delhi
+Dataset alias: rahul_cp07
