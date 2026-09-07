@@ -1,4 +1,7 @@
-EXH-11 pairing record
-Peer label: Collector-04
-Transport: Bluetooth
-Purpose in simulation: transfer of fabricated evidence records
+Bluetooth pairing records recovered from EXH-11.
+
+2026-09-04 10:57:14 | Samsung Galaxy S24 | MAC 02:8D:91:44:2E:70 | alias=rahul_s24 | location=Connaught Place, New Delhi
+2026-09-04 11:03:29 | OnePlus 12 | MAC 02:31:6F:82:14:9A | alias=priya_kb22 | location=Karol Bagh, New Delhi
+2026-09-04 11:09:06 | iPhone 15 | MAC 02:72:4C:1A:63:08 | alias=arjun_s18 | location=Sector 18, Noida
+
+MAC addresses are locally administered synthetic identifiers created for this lab.
