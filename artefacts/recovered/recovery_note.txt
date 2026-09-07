@@ -1,1 +1,3 @@
-Recovered from the bundled dummy archive. Records are test data only.
+Controlled recovery note
+
+Archive contents were recovered from a password-protected lab container. The dataset uses realistic Indian-style names, public locations and commercial device models, but every identity, MAC address and payment reference is synthetic.
