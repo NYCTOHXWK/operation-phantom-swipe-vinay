@@ -1,3 +1,7 @@
-record_id,test_record,expiry,cvc,pin_status
-SYN-001,TEST-CARD-A,12/30,000,DEMO
-SYN-002,TEST-CARD-B,11/29,000,DEMO
+record_id,card_reference,holder_name,device_model,location,mac_address,username,status
+SYN-001,TEST-CARD-4111-0000-0001,Rahul Mehra,Samsung Galaxy S24,Connaught Place New Delhi,02:8D:91:44:2E:70,rahul_cp07,SYNTHETIC
+SYN-002,TEST-CARD-5555-0000-0002,Priya Nair,OnePlus 12,Karol Bagh New Delhi,02:31:6F:82:14:9A,priya_kb22,SYNTHETIC
+SYN-003,TEST-CARD-4012-0000-0003,Arjun Malhotra,iPhone 15,Sector 18 Noida,02:72:4C:1A:63:08,arjun_s18,SYNTHETIC
+SYN-004,TEST-CARD-6011-0000-0004,Neha Sharma,Google Pixel 8,Banjara Hills Hyderabad,02:5E:33:7A:20:91,neha_bh08,SYNTHETIC
+
+All card references are intentionally non-usable test identifiers.
