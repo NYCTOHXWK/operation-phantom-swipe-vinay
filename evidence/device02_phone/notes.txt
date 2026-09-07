@@ -1,4 +1,9 @@
-Case note — fictional
-EXH-11 was collected from the simulated ATM scene.
-EXH-12 is a fictional phone image.
-All identifiers in this exercise are placeholders.
+Device model: Samsung Galaxy S24
+Primary alias: rahul_cp07
+Observed location: Connaught Place, New Delhi
+Bluetooth MAC: 02:8D:91:44:2E:70
+Related test record: TEST-CARD-4111-0000-0001
+Holder name in test dataset: Rahul Mehra
+Secondary location reference: Sector 18, Noida
+
+All names, aliases, card references and MAC addresses are synthetic.
