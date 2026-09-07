@@ -1,0 +1,4 @@
+EXH-11 pairing record
+Peer label: Collector-04
+Transport: Bluetooth
+Purpose in simulation: transfer of fabricated evidence records
