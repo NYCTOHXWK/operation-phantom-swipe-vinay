@@ -1,4 +1,8 @@
-[SIMULATED SMS]
-2026-08-14 11:02 — DemoBank: TEST transaction reference DEMO-1842.
-2026-08-14 11:06 — Operator: move the sample records to the archive.
-2026-08-14 11:09 — DemoBank: TEST OTP 000000. This is fabricated data.
+SMS BACKUP — EXH-12
+
+2026-09-04 11:24 | From: rahul_cp07 | "Meet near Rajiv Chowk Metro. Bring the reader."
+2026-09-04 11:27 | From: priya_kb22 | "Use the Sector 18 test set only."
+2026-09-04 11:31 | From: arjun_s18 | "The sample record TEST-CARD-4012-0000-0003 is in the export."
+
+Location references: Rajiv Chowk / Connaught Place, New Delhi; Karol Bagh, New Delhi; Sector 18, Noida.
+All identities and card references are synthetic.
