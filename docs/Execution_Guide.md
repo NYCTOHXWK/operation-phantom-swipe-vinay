@@ -1,10 +1,18 @@
 # Execution Guide
 
-1. Run `python3 scripts/generate_evidence.py` to create the small fictional evidence set.
-2. Run `python3 scripts/hash_files.py` to calculate SHA-256 values.
-3. Run `python3 scripts/search_media.py` to search the evidence directory for selected terms.
-4. Run `python3 scripts/crack_zip.py` against the bundled dummy `vault.zip`.
-5. Run `python3 scripts/validate_structure.py` to check required files.
-6. The PDFs and screenshots in this submission are already generated examples.
+This lab uses controlled evidence files to demonstrate acquisition, string searching, recovery and integrity verification.
 
-No command in this repository is intended for unauthorised access to real systems or data.
+## Realistic test dataset
+Examples are written in an Indian investigation context: Connaught Place and Karol Bagh in New Delhi, Sector 18 in Noida and Banjara Hills in Hyderabad. Device models include Samsung Galaxy S24, OnePlus 12, iPhone 15 and Google Pixel 8. Names and usernames are fictional; payment references are deliberately non-usable.
+
+## Run
+
+```bash
+python scripts/generate_evidence.py
+python scripts/search_media.py
+python scripts/crack_zip.py
+python scripts/hash_files.py
+python scripts/validate_structure.py
+```
+
+The protected archive uses a lab-only test password.
