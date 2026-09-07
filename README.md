@@ -1,29 +1,20 @@
-# Operation Phantom Swipe — Vinay
-### Academic Digital Forensics Simulation
+# Operation Phantom Swipe — Vinay Yadav
 
-**Name:** Vinay  
-**Roll No.:** 2301730176  
-**Course:** B.Tech CSE  
-**Submission:** 2026
+Academic cybercrime investigation lab using a realistic Indian-context test dataset. All card identifiers, account aliases, contact details and device identifiers are synthetic.
 
-This repository is a small, self-contained forensic exercise based on a fictional ATM/card-fraud case. All case identifiers and evidence are fabricated for academic use. No real customer, banking, wallet or device data is included.
+## Student
+- Name: Vinay Yadav
+- Roll No.: 2301730176
 
-## Required work
+## Evidence flow
+1. `evidence/device01_skimmer/` — seized reader test artefacts.
+2. `evidence/device02_phone/` — mobile extraction test artefacts.
+3. `evidence/protected/vault.zip` — password-protected synthetic evidence container.
+4. `artefacts/` — recovered and interpreted records.
+5. `screenshots/` — lab workflow evidence.
+6. `hashes/SHA256SUMS.txt` — integrity manifest.
 
-1. Cybercrime classification and legal mapping — `docs/01_Cybercrime_Taxonomy_and_Legal_Mapping.md`
-2. Evidence acquisition, hashing and chain of custody — `hashes/SHA256SUMS.txt`, `logs/hashing.log`, `docs/Chain_of_Custody_Form.pdf`
-3. Media search and artefact extraction — `scripts/search_media.py`, `artefacts/`, `logs/search.log`
-4. Protected evidence simulation — `evidence/protected/vault.zip`, `scripts/crack_zip.py`, `logs/cracking.log`
-5. Legal-technical report — `docs/Legal_Technical_Report.pdf`
+## Realistic test data
+The examples use Indian names, public Indian locations, real commercial handset models, locally administered MAC addresses and ordinary-looking usernames. Payment identifiers use a clearly marked `TEST-CARD` format and are non-usable.
 
-## Run
-
-```bash
-python3 scripts/generate_evidence.py
-python3 scripts/hash_files.py
-python3 scripts/search_media.py
-python3 scripts/crack_zip.py
-python3 scripts/validate_structure.py
-```
-
-The protected archive contains only fabricated records. The password test is limited to this bundled dummy archive.
+No real payment credentials or private identifying records are included.
