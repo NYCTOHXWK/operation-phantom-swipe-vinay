@@ -15,6 +15,6 @@ Academic cybercrime investigation lab using a realistic Indian-context test data
 6. `hashes/SHA256SUMS.txt` — integrity manifest.
 
 ## Realistic test data
-The examples use Indian names, public Indian locations, real commercial handset models, locally administered MAC addresses and ordinary-looking usernames. Payment identifiers use a clearly marked `TEST-CARD` format and are non-usable.
+The examples use Indian names, public Indian locations, real commercial handset models, locally administered MAC addresses and ordinary-looking usernames. Payment identifiers are random 16-digit synthetic values and are deliberately non-usable.
 
 No real payment credentials or private identifying records are included.
