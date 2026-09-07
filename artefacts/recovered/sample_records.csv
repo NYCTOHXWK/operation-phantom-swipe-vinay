@@ -1,0 +1,3 @@
+record_id,test_record,expiry,cvc,pin_status
+SYN-001,TEST-CARD-A,12/30,000,DEMO
+SYN-002,TEST-CARD-B,11/29,000,DEMO
