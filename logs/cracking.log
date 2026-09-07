@@ -1,1 +1,5 @@
-Bundled vault contains synthetic test records. Archive inspection completed.
+[2026-09-07 18:21:10] Protected evidence container identified.
+[2026-09-07 18:21:12] Dictionary test completed against controlled lab archive.
+[2026-09-07 18:21:12] Archive opened with the lab test password.
+[2026-09-07 18:21:13] Recovered: sample_records.csv, recovery_note.txt
+[2026-09-07 18:21:13] Recovered records contain Indian names, locations, handset models and synthetic card references.
