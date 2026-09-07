@@ -1,3 +1,5 @@
-2026-08-14 10:21:11 | EVENT-001 | synthetic-track-record | PIN_CAPTURE=DEMO
-2026-08-14 10:22:43 | EVENT-002 | synthetic-track-record | PIN_CAPTURE=DEMO
-2026-08-14 10:25:07 | EVENT-003 | synthetic-track-record | PIN_CAPTURE=DEMO
+2026-09-04 11:18:03 | EXH-11 | track_ref=TEST-CARD-4111-0000-0001 | holder=Rahul Mehra | location=Connaught Place, New Delhi | user=rahul_cp07
+2026-09-04 11:19:41 | EXH-11 | track_ref=TEST-CARD-5555-0000-0002 | holder=Priya Nair | location=Karol Bagh, New Delhi | user=priya_kb22
+2026-09-04 11:22:17 | EXH-11 | track_ref=TEST-CARD-4012-0000-0003 | holder=Arjun Malhotra | location=Sector 18, Noida | user=arjun_s18
+
+NOTE: Every payment identifier above is a synthetic test reference and cannot be used for a transaction.
