@@ -1,0 +1,5 @@
+Installed applications (fictional)
+- DemoPay
+- File Manager
+- Notes
+- Archive Utility
