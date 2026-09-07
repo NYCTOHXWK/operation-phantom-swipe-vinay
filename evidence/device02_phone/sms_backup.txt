@@ -1,0 +1,4 @@
+[SIMULATED SMS]
+2026-08-14 11:02 — DemoBank: TEST transaction reference DEMO-1842.
+2026-08-14 11:06 — Operator: move the sample records to the archive.
+2026-08-14 11:09 — DemoBank: TEST OTP 000000. This is fabricated data.
