@@ -1,7 +1,6 @@
-evidence_id,source,artefact,type,notes
-EV-001,EXH-11,device_config.ini,configuration,synthetic
-EV-002,EXH-11,captured_tracks.log,log,synthetic
-EV-003,EXH-11,bluetooth_pairing.txt,pairing record,synthetic
-EV-004,EXH-12,sms_backup.txt,messages,synthetic
-EV-005,EXH-12,installed_apps.txt,application list,synthetic
-EV-006,EXH-12,buyer_deal.eml,email,synthetic
+exhibit_id,source,observed_item,location,username,assessment
+EXH-11,device01_skimmer,TEST-CARD-4111-0000-0001 / Rahul Mehra,Connaught Place New Delhi,rahul_cp07,Synthetic test record
+EXH-11,device01_skimmer,TEST-CARD-5555-0000-0002 / Priya Nair,Karol Bagh New Delhi,priya_kb22,Synthetic test record
+EXH-12,device02_phone,Samsung Galaxy S24 / 02:8D:91:44:2E:70,Connaught Place New Delhi,rahul_cp07,Device correlation test
+EXH-12,device02_phone,iPhone 15 / 02:72:4C:1A:63:08,Sector 18 Noida,arjun_s18,Device correlation test
+EXH-12,device02_phone,Google Pixel 8 / 02:5E:33:7A:20:91,Banjara Hills Hyderabad,neha_bh08,Device correlation test
