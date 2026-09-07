@@ -1,6 +1,13 @@
-From: buyer@example.invalid
-To: operator@example.invalid
-Subject: sample data transfer
+From: rahul_cp07@sample.invalid
+To: arjun_s18@sample.invalid
+Subject: Reader handover - test set
+Date: Fri, 04 Sep 2026 11:36:00 +0530
 
-This is a fictional message included only to demonstrate email artefact extraction.
-No real customer or payment data is present.
+Arjun,
+
+The Samsung Galaxy S24 export and the test reader log are ready. The handover location is Sector 18, Noida. Use the username arjun_s18 when matching the sample records.
+
+Reference: TEST-CARD-5555-0000-0002
+Holder in dataset: Priya Nair
+
+This mailbox and all records are synthetic material for the academic lab.
